@@ -1,0 +1,29 @@
+VIOLET PUBLIC LICENSE
+Version 1.0 - July 22, 2023
+
+1. Definitions
+    i. "License" refers to the Violet Public License 1.0, which is the set of terms and conditions provided in this document.
+    ii. "You" (or "Your") refers to an individual or legal entity exercising rights under the License. For legal entities, "You" includes any entity that controls, is controlled by, or is under common control with You. "Control" means the power, direct or indirect, to cause the direction or management of such entity, whether by contract.
+    iii. "Software" refers to the computer program or software project licensed under the License.
+    iv. "Modified Versions" refers to any derivative works of the Software that are created by You or any third party.
+    v. "Source Code" refers to the human-readable form of the Software's or Modified Versions' programmatic instructions and design, including all documentation and build scripts.
+    vi. "Public Platform" means a publicly accessible platform or repository where the complete corresponding source code of the Software and its Modified Versions can be freely accessed, downloaded and reviewed by the general public.
+    viii. "Larger Work" refers to any work that combines Software or its Modified Versions with other separate and independent software projects or components in a way that creates a new distinct program, where the Software or its Modified Versions are not merely aggregated, linked, or used as libraries. The Larger Work may include, but it is not limited to, applications, systems, libraries, plugins, and distributions.
+
+2. Terms
+    i. Acceptance of Terms: By downloading, installing or using the Software, You accept and agree to be bound by all the terms and conditions of the License.
+    ii. Source Code Availability: If You create Modified Versions of the Software, You must make the complete corresponding Source Code available on a Public Platform.
+    iii. Reporting Changes: You are required to document and publicly disclose any changes made to the Software when creating Modified Versions. This includes providing clear information about the nature of modifications and the reasons behind them.
+    iv. Preservation of License Statements: You must ensure that all original license statements, copyright notices, and attributions provided by the original right holder or holders of the Software are retained in all copies of the Software and its Modified Versions.
+    v. Commercial Use: The License allows commercial use of the Software, permitting individuals and organizations to use, sell, or incorporate the Software into commercial products.
+    vi. Use in Larger Works: When You use the Software or Modified Versions as a component or library in a Larger Work, the entire Larger Work does not need to be licensed under the License. However, any part of the Larger Work that includes or utilizes the Software or Modified Versions must be made available under the terms of the License. For clarity, standalone use or distribution of the Software must comply fully with the License.
+    vii. No Warranty: The Software is provided "AS IS," without any warranty of any kind, express or implied. The original right holders of the Software shall not be liable for any claim, damages, or other liability arising from the use or distribution of the Software.
+    viii. Circumstances for Claiming Violation: If You violate any of the terms and conditions of the License, the original right holder or holders of the Software may take appropriate legal action to remedy the violation, including but not limited to seeking injunctive relief or damages. Such action shall not release You from compliance with the License.
+    ix. Complete Agreement: The License constitutes the complete agreement between You and the original right holder or holders of the Software. Any additional terms or conditions not explicitly stated in the License are non-binding.
+
+To license a software with the License, the entire license text must be publicly available by any means in the Software. Next to the full license text, a header stating that the Software is licensed with the License can be added to the beginning of the files:
+
+Copyright [year] [copyright holder name]
+
+This work is licensed under the Violet Public License 1.0 (the "License");
+You may not use this file except in compliance with the License.
